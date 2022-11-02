@@ -3,7 +3,7 @@ AURO M2 Projet 1 KALMAN - Sujet SLAM EKF
 
 # Ressources
 
-- [P1K.SLAM.Sujet.Highlighted.pdf](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/P1K.SLAM.Sujet.Highlighted.pdf)
+- [P1K.SLAM.Sujet.Highlighted.pdf](https://github.com/TunnARK/P1K-SLAM/blob/main/assets/P1K.SLAM.Sujet.Highlighted.pdf)
 
 # Feuille de Route
 
