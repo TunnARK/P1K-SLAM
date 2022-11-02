@@ -28,37 +28,37 @@ https://am111.readthedocs.io/en/latest/jmatlab_install.html )
 
 ## Objectifs
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetObjectifs.png)
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetProblemDef.png)
+![](/assets/images/P1K.SLAM.SujetObjectifs.png)
+![](/assets/images/P1K.SLAM.SujetProblemDef.png)
 
 ## Rappels
 
 ### Variables
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelVariables.png)
+![](/assets/images/P1K.SLAM.SujetRappelVariables.png)
 
 ### Models
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelModels.png)
+![](/assets/images/P1K.SLAM.SujetRappelModels.png)
 
 ### Posterior Marginal
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelPostMargin.png)
+![](/assets/images/P1K.SLAM.SujetRappelPostMargin.png)
 
 ### Outline
 
 #### State/Control Input/Measurement Output Variables
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelStateVars.png)
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelStateVars2.png)
+![](/assets/images/P1K.SLAM.SujetRappelStateVars.png)
+![](/assets/images/P1K.SLAM.SujetRappelStateVars2.png)
 
 #### Prior Dynamics
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelPriorDynamics.png)
+![](/assets/images/P1K.SLAM.SujetRappelPriorDynamics.png)
 
 #### Observation Models
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelObsModels.png)
+![](/assets/images/P1K.SLAM.SujetRappelObsModels.png)
 
 #### SLAM Initialization
 
@@ -66,15 +66,15 @@ https://am111.readthedocs.io/en/latest/jmatlab_install.html )
 
 #### SLAM Time Update
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelTimeUpdate.png)
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelTimeUpdate2.png)
+![](/assets/images/P1K.SLAM.SujetRappelTimeUpdate.png)
+![](/assets/images/P1K.SLAM.SujetRappelTimeUpdate2.png)
 
 #### SLAM Measurement Update
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelMeasUpdate.png)
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelMeasUpdate2.png)
+![](/assets/images/P1K.SLAM.SujetRappelMeasUpdate.png)
+![](/assets/images/P1K.SLAM.SujetRappelMeasUpdate2.png)
 
 #### Data Association Handling
 
-![](https://raw.githubusercontent.com/TunnARK/P1K-SLAM/assets/images/P1K.SLAM.SujetRappelDataAssociation.png)
+![](/assets/images/P1K.SLAM.SujetRappelDataAssociation.png)
 
